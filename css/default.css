@@ -66,7 +66,7 @@ background-color: mediumaquamarine;
 #gnav div.img {
   display: table-cell;
   vertical-align: middle;
-  background: url(css_sprite.zip) no-repeat;
+  background: url(../css_sprite.zip) no-repeat;
   width: 55px;
   height: 46px;
 }
