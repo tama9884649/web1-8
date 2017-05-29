@@ -77,3 +77,8 @@ background-color: mediumaquamarine;
 .breadcrumbs li:first-child:before {
 	content:"";
 }
+#gnav a.selected {
+  background: white;
+  color: darkgreen;
+  font-weight: bold;
+}
