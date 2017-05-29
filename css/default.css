@@ -44,6 +44,17 @@ table {
 body{
 background-color: mediumaquamarine;
 }
+#gnav a {
+  display: block;
+  padding:10px 0;
+  text-align: center;
+  text-decoration: darkgreen;
+  color: white;
+}
+#gnav a:hover {
+  background: lightgreen;
+  color: black;
+}
 #gnav ul {
   overflow: hidden;	
 }
